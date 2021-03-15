@@ -6,6 +6,7 @@
         <h1>IT BELONGS IN A MUSEUM</h1>
     <?php 
     //This is a comment
+    //This indicates a new branch
         $color = "red";
         echo "My first PHP script! " . $color ;
     
